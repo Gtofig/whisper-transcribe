@@ -20,8 +20,8 @@ A TypeScript application that transcribes audio files using OpenAI's Whisper API
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/audio-transcriber.git
-   cd audio-transcriber
+   git clone https://github.com/gtofig/whisper-transcribe.git
+   cd whisper-transcribe
    ```
 
 2. Install dependencies:
